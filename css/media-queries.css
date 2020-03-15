@@ -214,7 +214,7 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: inline; height: auto; width: auto; margin-left: -3%; margin-bottom: 10%;}
+   #about .profile-pic { display: inline-block; height: auto; width: auto; margin-left: -3%; margin-bottom: 10%;}
    #about .download .button {
       width: 100%;
       text-align: center;
