@@ -207,7 +207,7 @@ ul#nav li.current a { color: #4188e0; }
    color: #7A7A7A;
 }
 #about .profile-pic {
-   position:absolute;
+   position:static;
    width: 400px;
    height: 350px;
 }
