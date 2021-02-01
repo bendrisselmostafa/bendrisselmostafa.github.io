@@ -7780,6 +7780,7 @@ button.bg-dark:focus {
   right: 0;
   left: 0;
   z-index: 1030;
+  background: #121212;
 }
 
 .fixed-bottom {
@@ -10086,7 +10087,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
 }
 @media (max-width: 991.98px) {
   .owl-carousel.home-slider .slider-item .slider-text h1 {
-    font-size: 40px;
+    font-size: 25px;
   }
 }
 .owl-carousel.home-slider .slider-item .slider-text p {
